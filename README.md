@@ -19,11 +19,11 @@ Extrae, interpreta y estructura información compleja de PDFs legales (cobertura
 Aquí puedes ver el funcionamiento de la aplicación:
 
 <p align="center">
-  <img src="./assets/imagen1.png" alt="Pantalla de Carga" width="31%">
+  <img src="./assets/pantalla1policygpt.png" alt="Pantalla de Carga" width="31%">
   &nbsp;
-  <img src="./assets/imagen2.png" alt="Procesamiento" width="31%">
+  <img src="./assets/pantalla2PolicyGPT.png" alt="Procesamiento" width="31%">
   &nbsp;
-  <img src="./assets/imagen3.png" alt="Resultado Final" width="31%">
+  <img src="./assets/pantalla3PolicyGPT.png" alt="Resultado Final" width="31%">
 </p>
 
 ---
